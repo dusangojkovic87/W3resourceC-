@@ -1,0 +1,15 @@
+C:\Users\dusan\OneDrive\Desktop\W3ResourceC#\W3ResourceC#\bin\Debug\net6.0\W3ResourceC#.exe
+C:\Users\dusan\OneDrive\Desktop\W3ResourceC#\W3ResourceC#\bin\Debug\net6.0\W3ResourceC#.deps.json
+C:\Users\dusan\OneDrive\Desktop\W3ResourceC#\W3ResourceC#\bin\Debug\net6.0\W3ResourceC#.runtimeconfig.json
+C:\Users\dusan\OneDrive\Desktop\W3ResourceC#\W3ResourceC#\bin\Debug\net6.0\W3ResourceC#.dll
+C:\Users\dusan\OneDrive\Desktop\W3ResourceC#\W3ResourceC#\bin\Debug\net6.0\W3ResourceC#.pdb
+C:\Users\dusan\OneDrive\Desktop\W3ResourceC#\W3ResourceC#\obj\Debug\net6.0\W3ResourceC#.csproj.AssemblyReference.cache
+C:\Users\dusan\OneDrive\Desktop\W3ResourceC#\W3ResourceC#\obj\Debug\net6.0\W3ResourceC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dusan\OneDrive\Desktop\W3ResourceC#\W3ResourceC#\obj\Debug\net6.0\W3ResourceC#.AssemblyInfoInputs.cache
+C:\Users\dusan\OneDrive\Desktop\W3ResourceC#\W3ResourceC#\obj\Debug\net6.0\W3ResourceC#.AssemblyInfo.cs
+C:\Users\dusan\OneDrive\Desktop\W3ResourceC#\W3ResourceC#\obj\Debug\net6.0\W3ResourceC#.csproj.CoreCompileInputs.cache
+C:\Users\dusan\OneDrive\Desktop\W3ResourceC#\W3ResourceC#\obj\Debug\net6.0\W3ResourceC#.dll
+C:\Users\dusan\OneDrive\Desktop\W3ResourceC#\W3ResourceC#\obj\Debug\net6.0\refint\W3ResourceC#.dll
+C:\Users\dusan\OneDrive\Desktop\W3ResourceC#\W3ResourceC#\obj\Debug\net6.0\W3ResourceC#.pdb
+C:\Users\dusan\OneDrive\Desktop\W3ResourceC#\W3ResourceC#\obj\Debug\net6.0\W3ResourceC#.genruntimeconfig.cache
+C:\Users\dusan\OneDrive\Desktop\W3ResourceC#\W3ResourceC#\obj\Debug\net6.0\ref\W3ResourceC#.dll
