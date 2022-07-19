@@ -1,3 +1,3 @@
-﻿var result = SumIntegers.Calculate(3, 2);
+﻿var result = AbsoluteDiff.GetAbsoluteDiff(53);
 System.Console.WriteLine(result);
 Console.ReadLine();
