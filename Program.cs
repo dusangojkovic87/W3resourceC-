@@ -1,3 +1,3 @@
-﻿var result = RemoveChar.RemoveAtIndex("Python", 4);
+﻿var result = StringExchange.Exchange("dbca");
 System.Console.WriteLine(result);
 Console.ReadLine();
