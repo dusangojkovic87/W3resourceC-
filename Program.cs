@@ -1,3 +1,3 @@
-﻿var result = Check30.is30(10, 10);
+﻿var result = inRange10of100or200.isInRange(89);
 System.Console.WriteLine(result);
 Console.ReadLine();
