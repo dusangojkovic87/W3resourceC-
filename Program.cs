@@ -1,3 +1,3 @@
-﻿var result = FirstTwoLettersOfString.fourCopiesOfTwoLetters("Csharp");
+﻿var result = LastCharFrontandBack.GetNewString("Red");
 System.Console.WriteLine(result);
 Console.ReadLine();
