@@ -1,2 +1,2 @@
-﻿RemoveFileFromDisk.ClearFromDisk();
+﻿CreateIfAlreadyExists.CreateIt();
 Console.ReadLine();

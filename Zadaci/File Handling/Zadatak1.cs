@@ -10,11 +10,21 @@ public static class CreateBlankFile
         string curenntDirectory = Directory.GetCurrentDirectory();
         string path = Path.Combine(curenntDirectory, "Zadaci", "File Handling", "mytest.txt");
 
-        File.Create(path);
-        if (File.Exists(path))
+        try
         {
-            System.Console.WriteLine("File created successfully!");
+            File.Create(path);
+            if (File.Exists(path))
+            {
+                System.Console.WriteLine("File created successfully!");
+            }
+
         }
+        catch (System.Exception e)
+        {
+
+            System.Console.WriteLine(e.Message);
+        }
+
 
 
 
