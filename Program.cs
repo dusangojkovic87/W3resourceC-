@@ -1,3 +1,3 @@
-﻿var result = NumberInArrayCount.Get(new int[] { 1, 2, 2, 3 }, 9);
+﻿var result = CompareTwoStrings.Get("pqrstuvwx", "pqkdiewx");
 System.Console.WriteLine(result);
 Console.ReadLine();
