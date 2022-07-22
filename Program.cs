@@ -1,3 +1,3 @@
-﻿var result = CountAA.Get("JSaaakoiaa");
+﻿var result = CheckA.Get("caabb");
 System.Console.WriteLine(result);
 Console.ReadLine();
