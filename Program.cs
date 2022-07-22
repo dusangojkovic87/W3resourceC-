@@ -1,3 +1,3 @@
-﻿var result = Count5sNextToEachOther.Get(new int[] { 5, 5, 2 });
+﻿var result = Triple.isTriple(new int[] { 1, 1, 2, 1, 2, 3 });
 System.Console.WriteLine(result);
 Console.ReadLine();
