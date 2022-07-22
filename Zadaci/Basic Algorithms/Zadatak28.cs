@@ -9,9 +9,9 @@ public class Count5sNextToEachOther
     public static int Get(int[] arr)
     {
         int counter = 0;
-        for (int i = 0; i < arr.Count() - 1; i++)
+        for (int i = 0; i < arr.Length - 1; i++)
         {
-            if (arr[i] == arr[i + 1])
+            if (arr[i] == arr[i + 1] || arr[i] == 6)
             {
                 counter++;
             }
