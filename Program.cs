@@ -1,3 +1,3 @@
-﻿var result = SameLastDigit.Get(13, 13);
+﻿var result = ConvertLastThreeToUpper.Get("Javascript");
 System.Console.WriteLine(result);
 Console.ReadLine();
