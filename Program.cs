@@ -1,3 +1,3 @@
-﻿var result = YtAppearsAtIndex1.Get("ytade");
+﻿var result = LargestOfThreeNumbers.Get(1, 2, 3);
 System.Console.WriteLine(result);
 Console.ReadLine();
