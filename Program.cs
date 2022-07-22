@@ -1,3 +1,3 @@
-﻿var result = MultipleOf7or3.isMultiple(37);
+﻿var result = ThreeCharactersofString.Get("JS");
 System.Console.WriteLine(result);
 Console.ReadLine();
