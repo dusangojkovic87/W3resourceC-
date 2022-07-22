@@ -1,3 +1,3 @@
-﻿var result = isInRange100or200.Get(250, 300);
+﻿var result = YtAppearsAtIndex1.Get("ytade");
 System.Console.WriteLine(result);
 Console.ReadLine();
