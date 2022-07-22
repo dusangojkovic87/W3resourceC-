@@ -1,3 +1,3 @@
-﻿var result = NearestTo100.Get(95, 95);
+﻿var result = Contains4ZCharacters.Get("ZZZZ");
 System.Console.WriteLine(result);
 Console.ReadLine();
