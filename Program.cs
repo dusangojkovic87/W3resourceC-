@@ -1,3 +1,3 @@
-﻿var result = ThreeCharactersofString.Get("JS");
+﻿var result = StartsWithCsharp.Get("C++");
 System.Console.WriteLine(result);
 Console.ReadLine();
