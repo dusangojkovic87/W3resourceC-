@@ -1,3 +1,3 @@
-﻿var result = LargestOfThreeNumbers.Get(1, 2, 3);
+﻿var result = NearestTo100.Get(95, 95);
 System.Console.WriteLine(result);
 Console.ReadLine();
