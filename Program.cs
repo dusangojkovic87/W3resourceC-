@@ -1,2 +1,2 @@
-﻿CreateBlankFile.CreateFile();
+﻿RemoveFileFromDisk.ClearFromDisk();
 Console.ReadLine();
