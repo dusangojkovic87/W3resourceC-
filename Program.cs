@@ -1,2 +1,2 @@
-﻿CreateIfAlreadyExists.CreateIt();
+﻿CreateandAddText.Add();
 Console.ReadLine();
