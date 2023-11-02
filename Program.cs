@@ -1,2 +1,2 @@
-﻿CreateandAddText.Add();
+﻿
 Console.ReadLine();
